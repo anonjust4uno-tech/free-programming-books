@@ -592,3 +592,6 @@
 
 * [Webpack cheatsheet](https://devhints.io/webpack) - devhints, Rico Santa Cruz (HTML)
 
+### Keyboard Shortcuts
+* [Keyboard Shortcuts](https://www.w3schools.com/tags/ref_keyboardshortcuts.asp) - Keyboard Shortcuts Before Programming
+
